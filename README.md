@@ -1,5 +1,7 @@
 <!-- @format -->
 
+# React-JS
+
 Notes Application
 Description
 A simple note-taking application built with React. It allows users to create, edit, and delete notes, with functionality to save notes in local storage and a search feature to find specific notes. Each note displays its creation date and has options to edit or delete.
