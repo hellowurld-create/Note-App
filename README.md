@@ -22,28 +22,28 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/hellowurld-create/notes-app.git
 Navigate to the project directory:
 
 bash
 Copy code
 cd notes-app
-Install dependencies:
+Install dependencies
 
 bash
 Copy code
 npm install
-Start the development server:
+Start the development server
 
 bash
 Copy code
-npm start
-This will start the application and open it in your default web browser.
+npm run dev
+This will start the application and open it in your default web browser
 
 Usage
 Creating Notes:
-
 Enter text into the note input field and click "Save" to add a new note.
+
 Editing Notes:
 
 Click the "Edit" button on an existing note to update its content.
@@ -53,6 +53,7 @@ Click the "Delete" button to remove a note.
 Searching Notes:
 
 Use the search bar in the header to filter notes based on the text content.
+
 Folder Structure
 src/
 components/
